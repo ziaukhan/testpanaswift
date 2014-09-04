@@ -1,7 +1,7 @@
 This is test file. It will help us to learn git and github.
 
 <<<<<<< HEAD
-Wao
+MUHAMAMD RAZA MASTER
 =======
 This is Kamal Changing from here.
 >>>>>>> FETCH_HEAD
