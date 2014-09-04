@@ -1,6 +1,10 @@
 This is test file. It will help us to learn git and github.
 
+<<<<<<< HEAD
 <<<<————AKASH Sajjad————>
+=======
+Batman
+>>>>>>> FETCH_HEAD
 
 <<<<<<< HEAD
 MUHAMAMD RAZA MASTER 
